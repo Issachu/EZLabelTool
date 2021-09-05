@@ -1,0 +1,7 @@
+EZlabelTool/back-end/export/
+.DS_Store
+EZlabelTool/.gitignore
+EZlabelTool/back-end/__pycache__/
+EZlabelTool/back-end/image/
+EZlabelTool/back-end/controller/__pycache__/
+EZlabelTool/back-end/model/__pycache__/
