@@ -8,32 +8,16 @@ EZlabel --- online annotation tool
 ```markdown
 .
 ├── EZlabelTool : *see more detail inside the EZlabelTool*
-│   ├── back-end
-│   └── front-end
-|
-└── ProjectManagement : *folder for management*
-    ├── 00Agendas
-    ├── 01Meeting Minutes
-    ├── 02WeeklyTimesheet
-    │   ├── JingyiCui(1787453)
-    │   ├── PingyiHu(1805597)
-    │   └── YanZhou(1807782)
-    ├── 03Requirements
-    ├── 04Prototype
-    ├── 05Pitch
-    ├── 06BusinessCase&Plan
-    ├── 07RiskManagement
-    ├── 08Milestone1 Report
-    ├── 09Milestone2 Plan and Detailed tasks
-    ├── 10Testing : testing report and UAT feedback
-    └── 11Questionnaire Feedback
+    ├── back-end
+    └── front-end
+ 
 
 ```
 
 Download our project:
 
 ```
-git clone https://github.cs.adelaide.edu.au/MCI-Projects-2021/Team-01.git
+git clone https://github.com/Issachu/EZLabelTool.git
 ```
 
 run front-end in our project
